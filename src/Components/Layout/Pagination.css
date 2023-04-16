@@ -1,0 +1,46 @@
+.Pagination_btn{
+    font-size: 3vh;
+    padding: 8px;
+    margin: 2vh;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 25px;
+    border: 1px solid #007aff ;
+    background-color: #007aff;
+    color:white;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.Pagination_btn:hover{
+   background-color: white;
+   color:#007aff;
+   border: 1px solid #007aff;
+}
+.Pagination_btn-active{
+   font-size: 3vh;
+    padding: 8px;
+    margin: 2vh;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 25px;
+   background-color: white;
+   color:#007aff;
+   border: 1px solid #007aff;
+   cursor: pointer;
+}
+.Pagination_btn_SP{
+   font-size: 3vh;
+    padding: 8px;
+    margin: 2vh;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 25px;
+   background-color:#d5d6d9;
+   color:#adadae;
+   border: 0.5px solid #adadae;
+   cursor: pointer;
+   transition-duration: 0.4s;
+}
+.Pagination_btn_SP:hover{
+   background-color: white;
+}

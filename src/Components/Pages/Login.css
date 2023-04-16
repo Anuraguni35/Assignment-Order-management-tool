@@ -1,0 +1,19 @@
+.Login_container{
+    width:50vh;
+    /* border:0.5px solid rgb(80, 79, 79); */
+    align-self: center;
+    padding: 7vh;
+    height: 50vh;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* background: transparent;
+    transition: 20; */
+}
+.Login_heading{
+    font-size: 6vh;
+}
+.Login_worning{
+    font-size: 2vh;
+    color:#ff0000; 
+}

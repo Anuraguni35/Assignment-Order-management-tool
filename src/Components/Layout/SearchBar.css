@@ -1,0 +1,10 @@
+.SearchBar{
+    width: 95%;
+    height: 5vh;
+    margin-top: 0.5vh;
+    border: 0.5px solid #00000057;
+    border-radius: 3px;
+    padding: 0.5vh;
+    padding-left: 2vh;
+    margin-left: 0px;
+}

@@ -1,0 +1,22 @@
+.TableRow{
+    height: 7vh;
+}
+.Table{
+    width: 97%;
+    display: inline-table;
+}
+ 
+th{
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+}
+td{
+    border-bottom: 1px solid #ddd;
+    margin: 0px; 
+     
+}
+.OrderList{
+height: 80vh;
+}
+
+ 
